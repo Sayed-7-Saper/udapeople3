@@ -2,6 +2,7 @@ test.txt
 udacity.pem
 prometheus-server-key.pem
 new_user_credentials.csv
+/home/sayed/Documents/udaproject/url
 *~
 *.sw[mnpcod]
 *.log

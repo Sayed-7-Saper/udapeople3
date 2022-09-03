@@ -1,0 +1,9 @@
+
+github repo : https://github.com/Sayed-7-Saper/udapeople3
+
+cloudfront  : https://d2841kdsx96siy.cloudfront.net 
+
+S3-bucket : https://udapeople-16eac5a.s3.amazonaws.com/index.html
+
+backend _ec2 : http://52.44.42.13:3030/api/status        
+
