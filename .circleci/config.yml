@@ -255,6 +255,7 @@ jobs:
             fi 
       - destroy-environment
       - revert-migrations      
+      
 
   deploy-frontend:
     docker:
@@ -362,7 +363,7 @@ jobs:
             fi
       - destroy-environment
       - revert-migrations
-      
+
   cloudfront-update:
     docker:
       - image: cimg/base:stable
