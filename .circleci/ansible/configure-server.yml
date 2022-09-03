@@ -35,6 +35,7 @@
     TYPEORM_MIGRATIONS_DIR: "{{ lookup('env', 'TYPEORM_MIGRATIONS_DIR')}}"      
     #TYPEORM_PORT: "5432"   TYPEORM_PORT: 5432
 
+    #TYPEORM_PORT: "5432"   TYPEORM_PORT: 5432
 
 
   roles:

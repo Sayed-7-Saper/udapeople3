@@ -39,6 +39,7 @@ commands:
   # curl https://raw.githubusercontent.com/creationix/nvm/master/install.sh | bash
   #    #################
   # sudo npm cache clean -f
+
   # sudo npm install -g n
   # sudo n stable
   # sudo nvm use 13.8.0           
@@ -361,6 +362,7 @@ jobs:
             fi
       - destroy-environment
       - revert-migrations
+      
   cloudfront-update:
     docker:
       - image: cimg/base:stable
